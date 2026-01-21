@@ -1,11 +1,11 @@
-# 前端构建镜像
+# 前端构建
 node:18
 
-# 前端运行镜像
+# 前端运行
 nginx:alpine
 
-# 后端构建镜像
+# 后端构建
 eclipse-temurin:17-jdk-jammy
 
-# 后端运行镜像
+# 后端运行
 eclipse-temurin:17-jre-jammy
